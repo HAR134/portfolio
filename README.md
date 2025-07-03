@@ -30,6 +30,16 @@ This website showcases my skills, projects, certifications, and contact informat
 
 ---
 
+### 🍰 Cake Shop Website
+
+A multi-page website created for a web design competition. Built using only HTML and CSS, this site demonstrates layout, navigation, and styling.
+
+- 🔗 [Live Demo](https://har134.github.io/cake-shop-website/)
+- 📂 [GitHub Repository](https://github.com/HAR134/cake-shop-website)
+- 💡 Technologies: HTML5, CSS3
+
+---
+
 ## 📜 Certifications
 
 - Oracle Cloud Architecture – Oracle
